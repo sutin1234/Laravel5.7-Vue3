@@ -10,8 +10,51 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-### How To Used
+### About Project
 Project build Laravel 5.7 with VueJS3 CLI Webpack
+
+### environment system
+used php 7.0 up
+used vue-cli 2 up
+used npm5 up
+
+### install environment
+- install nodejs 6+
+- install webserver (XAMPP with PHP7)
+- install composer
+- install nginx if you need
+
+### How to used
+git clone https://github.com/sutin1234/Laravel5.7-Vue3.git
+cd Laravel5.7-Vue3
+npm install
+
+### config Laravel 5.7
+.env file to changed mysql connection
+config/database.php file to change mysql connection
+
+### allow permission Laravel
+chmod -R 777 ./storage
+chmod -R 777 ./bootstrap
+
+### generate APP KEY
+php artisan key:generate
+
+### update php dev
+composer install or composer update // see in vendor
+
+### update dependencies
+npm install // see in node_modules
+
+### created database in phpmyadmin
+created database follow config/database.php above
+
+### migrated database
+php artisan migrate // created databse automatic see in phpmyadmin
+
+### serve Laravel & Vue
+npm run watch
+php artisan serve // see link to run in terminal default http://127.0.0.1:8000
 
 
 
