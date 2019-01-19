@@ -10,10 +10,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-<p>
-    ## How To Used
-    Project build Laravel 5.7 with VueJS3 CLI Webpack
-</p>
+## How To Used
+Project build Laravel 5.7 with VueJS3 CLI Webpack
+
 
 
 
