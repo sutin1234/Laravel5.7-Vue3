@@ -14,9 +14,9 @@
 Project build Laravel 5.7 with VueJS3 CLI Webpack
 
 ### environment system
-used php 7.0 up
-used vue-cli 2 up
-used npm5 up
+- used php 7.0 up
+- used vue-cli 2 up
+- used npm5 up
 
 ### install environment
 - install nodejs 6+
@@ -25,17 +25,17 @@ used npm5 up
 - install nginx if you need
 
 ### How to used
-git clone https://github.com/sutin1234/Laravel5.7-Vue3.git
-cd Laravel5.7-Vue3
-npm install
+- git clone https://github.com/sutin1234/Laravel5.7-Vue3.git
+- cd Laravel5.7-Vue3
+- npm install
 
 ### config Laravel 5.7
-.env file to changed mysql connection
-config/database.php file to change mysql connection
+- .env file to changed mysql connection
+- config/database.php file to change mysql connection
 
 ### allow permission Laravel
-chmod -R 777 ./storage
-chmod -R 777 ./bootstrap
+- chmod -R 777 ./storage
+- chmod -R 777 ./bootstrap
 
 ### generate APP KEY
 php artisan key:generate
@@ -53,8 +53,8 @@ created database follow config/database.php above
 php artisan migrate // created databse automatic see in phpmyadmin
 
 ### serve Laravel & Vue
-npm run watch
-php artisan serve // see link to run in terminal default http://127.0.0.1:8000
+- npm run watch
+- php artisan serve // see link to run in terminal default http://127.0.0.1:8000
 
 
 
