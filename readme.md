@@ -2,10 +2,6 @@
     <img src="https://laravel.com/assets/img/components/logo-laravel.svg">
 </p>
 
-<p>
-    ### How To Used
-    Project build Laravel 5.7 with VueJS3 CLI Webpack
-</p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -13,6 +9,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+
+<p>
+    ## How To Used
+    Project build Laravel 5.7 with VueJS3 CLI Webpack
+</p>
+
+
 
 ## About Laravel
 
